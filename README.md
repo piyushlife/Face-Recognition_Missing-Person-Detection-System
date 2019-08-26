@@ -17,7 +17,7 @@ With this application, we have provided a "mpds.pkl" file which is currently tra
 
 	1. Get inside facenet-master folder.
 	2. Open Terminal or cmd on the same location.
-	3. Fire this command: `"python src/faceRec.py"` or `"python src/faceRec.py --path <path_of_video/image_file>"`
-	4. Press `"q"` or `"Esc"` to close the pop up screen.
+	3. Fire this command: "python src/faceRec.py" or "python src/faceRec.py --path <path_of_video/image_file>"
+	4. Press "q" or "Esc" to close the pop up screen.
 	
 Alternatively, you can delete the pickle file and train your own classes and then follow the steps above again to view the result.
