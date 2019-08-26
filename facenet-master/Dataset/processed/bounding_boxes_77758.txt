@@ -1,0 +1,1 @@
+./Dataset/processed/Nisha/IMG-20190822-WA0064.png 264 329 491 618
