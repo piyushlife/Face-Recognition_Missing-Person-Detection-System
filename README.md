@@ -14,6 +14,7 @@ Create a folder named "facenet" inside "facenet-master/Models". Copy all the dow
 This application is used to recognise a person on which our model is trained as well as to get his/her emotion.
 
 With this application, we have provided a "mpds.pkl" file which is currently trained on 3 different classes: Me and my two other colleague. You can straightaway run this application with the below mentioned steps:
+
 	1. Get inside facenet-master folder.
 	2. Open Terminal or cmd on the same location.
 	3. Fire this command: `"python src/faceRec.py"` or `"python src/faceRec.py --path <path_of_video/image_file>"`
