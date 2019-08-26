@@ -4,7 +4,7 @@ Missing Person Detection System or, MPDS is a solution or a system aims primaril
 
 This piece of application makes use of facenet model developed by davidsandberg for face detection and recognition. Please refer this link for more info : https://github.com/davidsandberg/facenet
 
-The models can be downloaded from [here](https://drive.google.com/open?id=1bXEJmjmd750F53DsDv9B2vc1thbxlJrE).
+The weights can be downloaded from [here](https://drive.google.com/open?id=1bXEJmjmd750F53DsDv9B2vc1thbxlJrE).
 You can also get the link to download latest model from [davidsandberg](https://github.com/davidsandberg/facenet) repository too. Please make sure to change the value of "FACENET_MODEL_PATH" as is mentioned below.
 
 Create a folder named "facenet" inside "facenet-master/Models". Copy all the downloaded model files and paste it inside the newly created folder.
